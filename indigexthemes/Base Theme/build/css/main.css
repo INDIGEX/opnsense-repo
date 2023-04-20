@@ -367,796 +367,797 @@ h3 {
 }
 
 .glyphicon-euro:before {
-  content: "Ã¢â€šÂ¬";
+  content: "€";
 }
 
 .glyphicon-minus:before {
-  content: "Ã¢Ë†â€™";
+  content: "−";
 }
 
 .glyphicon-cloud:before {
-  content: "Ã¢ËœÂ";
+  content: "☁";
 }
 
 .glyphicon-envelope:before {
-  content: "Ã¢Å“â€°";
+  content: "✉";
 }
 
 .glyphicon-pencil:before {
-  content: "Ã¢Å“Â";
+  content: "✏";
 }
 
 .glyphicon-glass:before {
-  content: "Ã®â‚¬Â";
+  content: "";
 }
 
 .glyphicon-music:before {
-  content: "Ã®â‚¬â€š";
+  content: "";
 }
 
 .glyphicon-search:before {
-  content: "Ã®â‚¬Æ’";
+  content: "";
 }
 
 .glyphicon-heart:before {
-  content: "Ã®â‚¬â€¦";
+  content: "";
 }
 
 .glyphicon-star:before {
-  content: "Ã®â‚¬â€ ";
+  content: "";
 }
 
 .glyphicon-star-empty:before {
-  content: "Ã®â‚¬â€¡";
+  content: "";
 }
 
 .glyphicon-user:before {
-  content: "Ã®â‚¬Ë†";
+  content: "";
 }
 
 .glyphicon-film:before {
-  content: "Ã®â‚¬â€°";
+  content: "";
 }
 
 .glyphicon-th-large:before {
-  content: "Ã®â‚¬Â";
+  content: "";
 }
 
 .glyphicon-th:before {
-  content: "Ã®â‚¬â€˜";
+  content: "";
 }
 
 .glyphicon-th-list:before {
-  content: "Ã®â‚¬â€™";
+  content: "";
 }
 
 .glyphicon-ok:before {
-  content: "Ã®â‚¬â€œ";
+  content: "";
 }
 
 .glyphicon-remove:before {
-  content: "Ã®â‚¬â€";
+  content: "";
 }
 
 .glyphicon-zoom-in:before {
-  content: "Ã®â‚¬â€¢";
+  content: "";
 }
 
 .glyphicon-zoom-out:before {
-  content: "Ã®â‚¬â€“";
+  content: "";
 }
 
 .glyphicon-off:before {
-  content: "Ã®â‚¬â€”";
+  content: "";
 }
 
 .glyphicon-signal:before {
-  content: "Ã®â‚¬Ëœ";
+  content: "";
 }
 
 .glyphicon-cog:before {
-  content: "Ã®â‚¬â„¢";
+  content: "";
 }
 
 .glyphicon-trash:before {
-  content: "Ã®â‚¬Â ";
+  content: "";
 }
 
 .glyphicon-home:before {
-  content: "Ã®â‚¬Â¡";
+  content: "";
 }
 
 .glyphicon-file:before {
-  content: "Ã®â‚¬Â¢";
+  content: "";
 }
 
 .glyphicon-time:before {
-  content: "Ã®â‚¬Â£";
+  content: "";
 }
 
 .glyphicon-road:before {
-  content: "Ã®â‚¬Â¤";
+  content: "";
 }
 
 .glyphicon-download-alt:before {
-  content: "Ã®â‚¬Â¥";
+  content: "";
 }
 
 .glyphicon-download:before {
-  content: "Ã®â‚¬Â¦";
+  content: "";
 }
 
 .glyphicon-upload:before {
-  content: "Ã®â‚¬Â§";
+  content: "";
 }
 
 .glyphicon-inbox:before {
-  content: "Ã®â‚¬Â¨";
+  content: "";
 }
 
 .glyphicon-play-circle:before {
-  content: "Ã®â‚¬Â©";
+  content: "";
 }
 
 .glyphicon-repeat:before {
-  content: "Ã®â‚¬Â°";
+  content: "";
 }
 
 .glyphicon-refresh:before {
-  content: "Ã®â‚¬Â±";
+  content: "";
 }
 
 .glyphicon-list-alt:before {
-  content: "Ã®â‚¬Â²";
+  content: "";
 }
 
 .glyphicon-lock:before {
-  content: "Ã®â‚¬Â³";
+  content: "";
 }
 
 .glyphicon-flag:before {
-  content: "Ã®â‚¬Â´";
+  content: "";
 }
 
 .glyphicon-headphones:before {
-  content: "Ã®â‚¬Âµ";
+  content: "";
 }
 
 .glyphicon-volume-off:before {
-  content: "Ã®â‚¬Â¶";
+  content: "";
 }
 
 .glyphicon-volume-down:before {
-  content: "Ã®â‚¬Â·";
+  content: "";
 }
 
 .glyphicon-volume-up:before {
-  content: "Ã®â‚¬Â¸";
+  content: "";
 }
 
 .glyphicon-qrcode:before {
-  content: "Ã®â‚¬Â¹";
+  content: "";
 }
 
 .glyphicon-barcode:before {
-  content: "Ã®Ââ‚¬";
+  content: "";
 }
 
 .glyphicon-tag:before {
-  content: "Ã®ÂÂ";
+  content: "";
 }
 
 .glyphicon-tags:before {
-  content: "Ã®Ââ€š";
+  content: "";
 }
 
 .glyphicon-book:before {
-  content: "Ã®ÂÆ’";
+  content: "";
 }
 
 .glyphicon-bookmark:before {
-  content: "Ã®Ââ€ž";
+  content: "";
 }
 
 .glyphicon-print:before {
-  content: "Ã®Ââ€¦";
+  content: "";
 }
 
 .glyphicon-camera:before {
-  content: "Ã®Ââ€ ";
+  content: "";
 }
 
 .glyphicon-font:before {
-  content: "Ã®Ââ€¡";
+  content: "";
 }
 
 .glyphicon-bold:before {
-  content: "Ã®ÂË†";
+  content: "";
 }
 
 .glyphicon-italic:before {
-  content: "Ã®Ââ€°";
+  content: "";
 }
 
 .glyphicon-text-height:before {
-  content: "Ã®ÂÂ";
+  content: "";
 }
 
 .glyphicon-text-width:before {
-  content: "Ã®Ââ€˜";
+  content: "";
 }
 
 .glyphicon-align-left:before {
-  content: "Ã®Ââ€™";
+  content: "";
 }
 
 .glyphicon-align-center:before {
-  content: "Ã®Ââ€œ";
+  content: "";
 }
 
 .glyphicon-align-right:before {
-  content: "Ã®Ââ€";
+  content: "";
 }
 
 .glyphicon-align-justify:before {
-  content: "Ã®Ââ€¢";
+  content: "";
 }
 
 .glyphicon-list:before {
-  content: "Ã®Ââ€“";
+  content: "";
 }
 
 .glyphicon-indent-left:before {
-  content: "Ã®Ââ€”";
+  content: "";
 }
 
 .glyphicon-indent-right:before {
-  content: "Ã®ÂËœ";
+  content: "";
 }
 
 .glyphicon-facetime-video:before {
-  content: "Ã®Ââ„¢";
+  content: "";
 }
 
 .glyphicon-picture:before {
-  content: "Ã®ÂÂ ";
+  content: "";
 }
 
 .glyphicon-map-marker:before {
-  content: "Ã®ÂÂ¢";
+  content: "";
 }
 
 .glyphicon-adjust:before {
-  content: "Ã®ÂÂ£";
+  content: "";
 }
 
 .glyphicon-tint:before {
-  content: "Ã®ÂÂ¤";
+  content: "";
 }
 
 .glyphicon-edit:before {
-  content: "Ã®ÂÂ¥";
+  content: "";
 }
 
 .glyphicon-share:before {
-  content: "Ã®ÂÂ¦";
+  content: "";
 }
 
 .glyphicon-check:before {
-  content: "Ã®ÂÂ§";
+  content: "";
 }
 
 .glyphicon-move:before {
-  content: "Ã®ÂÂ¨";
+  content: "";
 }
 
 .glyphicon-step-backward:before {
-  content: "Ã®ÂÂ©";
+  content: "";
 }
 
 .glyphicon-fast-backward:before {
-  content: "Ã®ÂÂ°";
+  content: "";
 }
 
 .glyphicon-backward:before {
-  content: "Ã®ÂÂ±";
+  content: "";
 }
 
 .glyphicon-play:before {
-  content: "Ã®ÂÂ²";
+  content: "";
 }
 
 .glyphicon-pause:before {
-  content: "Ã®ÂÂ³";
+  content: "";
 }
 
 .glyphicon-stop:before {
-  content: "Ã®ÂÂ´";
+  content: "";
 }
 
 .glyphicon-forward:before {
-  content: "Ã®ÂÂµ";
+  content: "";
 }
 
 .glyphicon-fast-forward:before {
-  content: "Ã®ÂÂ¶";
+  content: "";
 }
 
 .glyphicon-step-forward:before {
-  content: "Ã®ÂÂ·";
+  content: "";
 }
 
 .glyphicon-eject:before {
-  content: "Ã®ÂÂ¸";
+  content: "";
 }
 
 .glyphicon-chevron-left:before {
-  content: "Ã®ÂÂ¹";
+  content: "";
 }
 
 .glyphicon-chevron-right:before {
-  content: "Ã®â€šâ‚¬";
+  content: "";
 }
 
 .glyphicon-plus-sign:before {
-  content: "Ã®â€šÂ";
+  content: "";
 }
 
 .glyphicon-minus-sign:before {
-  content: "Ã®â€šâ€š";
+  content: "";
 }
 
 .glyphicon-remove-sign:before {
-  content: "Ã®â€šÆ’";
+  content: "";
 }
 
 .glyphicon-ok-sign:before {
-  content: "Ã®â€šâ€ž";
+  content: "";
 }
 
 .glyphicon-question-sign:before {
-  content: "Ã®â€šâ€¦";
+  content: "";
 }
 
 .glyphicon-info-sign:before {
-  content: "Ã®â€šâ€ ";
+  content: "";
 }
 
 .glyphicon-screenshot:before {
-  content: "Ã®â€šâ€¡";
+  content: "";
 }
 
 .glyphicon-remove-circle:before {
-  content: "Ã®â€šË†";
+  content: "";
 }
 
 .glyphicon-ok-circle:before {
-  content: "Ã®â€šâ€°";
+  content: "";
 }
 
 .glyphicon-ban-circle:before {
-  content: "Ã®â€šÂ";
+  content: "";
 }
 
 .glyphicon-arrow-left:before {
-  content: "Ã®â€šâ€˜";
+  content: "";
 }
 
 .glyphicon-arrow-right:before {
-  content: "Ã®â€šâ€™";
+  content: "";
 }
 
 .glyphicon-arrow-up:before {
-  content: "Ã®â€šâ€œ";
+  content: "";
 }
 
 .glyphicon-arrow-down:before {
-  content: "Ã®â€šâ€";
+  content: "";
 }
 
 .glyphicon-share-alt:before {
-  content: "Ã®â€šâ€¢";
+  content: "";
 }
 
 .glyphicon-resize-full:before {
-  content: "Ã®â€šâ€“";
+  content: "";
 }
 
 .glyphicon-resize-small:before {
-  content: "Ã®â€šâ€”";
+  content: "";
 }
 
 .glyphicon-exclamation-sign:before {
-  content: "Ã®â€žÂ";
+  content: "";
 }
 
 .glyphicon-gift:before {
-  content: "Ã®â€žâ€š";
+  content: "";
 }
 
 .glyphicon-leaf:before {
-  content: "Ã®â€žÆ’";
+  content: "";
 }
 
 .glyphicon-fire:before {
-  content: "Ã®â€žâ€ž";
+  content: "";
 }
 
 .glyphicon-eye-open:before {
-  content: "Ã®â€žâ€¦";
+  content: "";
 }
 
 .glyphicon-eye-close:before {
-  content: "Ã®â€žâ€ ";
+  content: "";
 }
 
 .glyphicon-warning-sign:before {
-  content: "Ã®â€žâ€¡";
+  content: "";
 }
 
 .glyphicon-plane:before {
-  content: "Ã®â€žË†";
+  content: "";
 }
 
 .glyphicon-calendar:before {
-  content: "Ã®â€žâ€°";
+  content: "";
 }
 
 .glyphicon-random:before {
-  content: "Ã®â€žÂ";
+  content: "";
 }
 
 .glyphicon-comment:before {
-  content: "Ã®â€žâ€˜";
+  content: "";
 }
 
 .glyphicon-magnet:before {
-  content: "Ã®â€žâ€™";
+  content: "";
 }
 
 .glyphicon-chevron-up:before {
-  content: "Ã®â€žâ€œ";
+  content: "";
 }
 
 .glyphicon-chevron-down:before {
-  content: "Ã®â€žâ€";
+  content: "";
 }
 
 .glyphicon-retweet:before {
-  content: "Ã®â€žâ€¢";
+  content: "";
 }
 
 .glyphicon-shopping-cart:before {
-  content: "Ã®â€žâ€“";
+  content: "";
 }
 
 .glyphicon-folder-close:before {
-  content: "Ã®â€žâ€”";
+  content: "";
 }
 
 .glyphicon-folder-open:before {
-  content: "Ã®â€žËœ";
+  content: "";
 }
 
 .glyphicon-resize-vertical:before {
-  content: "Ã®â€žâ„¢";
+  content: "";
 }
 
 .glyphicon-resize-horizontal:before {
-  content: "Ã®â€žÂ ";
+  content: "";
 }
 
 .glyphicon-hdd:before {
-  content: "Ã®â€žÂ¡";
+  content: "";
 }
 
 .glyphicon-bullhorn:before {
-  content: "Ã®â€žÂ¢";
+  content: "";
 }
 
 .glyphicon-bell:before {
-  content: "Ã®â€žÂ£";
+  content: "";
 }
 
 .glyphicon-certificate:before {
-  content: "Ã®â€žÂ¤";
+  content: "";
 }
 
 .glyphicon-thumbs-up:before {
-  content: "Ã®â€žÂ¥";
+  content: "";
 }
 
 .glyphicon-thumbs-down:before {
-  content: "Ã®â€žÂ¦";
+  content: "";
 }
 
 .glyphicon-hand-right:before {
-  content: "Ã®â€žÂ§";
+  content: "";
 }
 
 .glyphicon-hand-left:before {
-  content: "Ã®â€žÂ¨";
+  content: "";
 }
 
 .glyphicon-hand-up:before {
-  content: "Ã®â€žÂ©";
+  content: "";
 }
 
 .glyphicon-hand-down:before {
-  content: "Ã®â€žÂ°";
+  content: "";
 }
 
 .glyphicon-circle-arrow-right:before {
-  content: "Ã®â€žÂ±";
+  content: "";
 }
 
 .glyphicon-circle-arrow-left:before {
-  content: "Ã®â€žÂ²";
+  content: "";
 }
 
 .glyphicon-circle-arrow-up:before {
-  content: "Ã®â€žÂ³";
+  content: "";
 }
 
 .glyphicon-circle-arrow-down:before {
-  content: "Ã®â€žÂ´";
+  content: "";
 }
 
 .glyphicon-globe:before {
-  content: "Ã®â€žÂµ";
+  content: "";
 }
 
 .glyphicon-wrench:before {
-  content: "Ã®â€žÂ¶";
+  content: "";
 }
 
 .glyphicon-tasks:before {
-  content: "Ã®â€žÂ·";
+  content: "";
 }
 
 .glyphicon-filter:before {
-  content: "Ã®â€žÂ¸";
+  content: "";
 }
 
 .glyphicon-briefcase:before {
-  content: "Ã®â€žÂ¹";
+  content: "";
 }
 
 .glyphicon-fullscreen:before {
-  content: "Ã®â€¦â‚¬";
+  content: "";
 }
 
 .glyphicon-dashboard:before {
-  content: "Ã®â€¦Â";
+  content: "";
 }
 
 .glyphicon-paperclip:before {
-  content: "Ã®â€¦â€š";
+  content: "";
 }
 
 .glyphicon-heart-empty:before {
-  content: "Ã®â€¦Æ’";
+  content: "";
 }
 
 .glyphicon-link:before {
-  content: "Ã®â€¦â€ž";
+  content: "";
 }
 
 .glyphicon-phone:before {
-  content: "Ã®â€¦â€¦";
+  content: "";
 }
 
 .glyphicon-pushpin:before {
-  content: "Ã®â€¦â€ ";
+  content: "";
 }
 
 .glyphicon-usd:before {
-  content: "Ã®â€¦Ë†";
+  content: "";
 }
 
 .glyphicon-gbp:before {
-  content: "Ã®â€¦â€°";
+  content: "";
 }
 
 .glyphicon-sort:before {
-  content: "Ã®â€¦Â";
+  content: "";
 }
 
 .glyphicon-sort-by-alphabet:before {
-  content: "Ã®â€¦â€˜";
+  content: "";
 }
 
 .glyphicon-sort-by-alphabet-alt:before {
-  content: "Ã®â€¦â€™";
+  content: "";
 }
 
 .glyphicon-sort-by-order:before {
-  content: "Ã®â€¦â€œ";
+  content: "";
 }
 
 .glyphicon-sort-by-order-alt:before {
-  content: "Ã®â€¦â€";
+  content: "";
 }
 
 .glyphicon-sort-by-attributes:before {
-  content: "Ã®â€¦â€¢";
+  content: "";
 }
 
 .glyphicon-sort-by-attributes-alt:before {
-  content: "Ã®â€¦â€“";
+  content: "";
 }
 
 .glyphicon-unchecked:before {
-  content: "Ã®â€¦â€”";
+  content: "";
 }
 
 .glyphicon-expand:before {
-  content: "Ã®â€¦Ëœ";
+  content: "";
 }
 
 .glyphicon-collapse-down:before {
-  content: "Ã®â€¦â„¢";
+  content: "";
 }
 
 .glyphicon-collapse-up:before {
-  content: "Ã®â€¦Â ";
+  content: "";
 }
 
 .glyphicon-log-in:before {
-  content: "Ã®â€¦Â¡";
+  content: "";
 }
 
 .glyphicon-flash:before {
-  content: "Ã®â€¦Â¢";
+  content: "";
 }
 
 .glyphicon-log-out:before {
-  content: "Ã®â€¦Â£";
+  content: "";
 }
 
 .glyphicon-new-window:before {
-  content: "Ã®â€¦Â¤";
+  content: "";
 }
 
 .glyphicon-record:before {
-  content: "Ã®â€¦Â¥";
+  content: "";
 }
 
 .glyphicon-save:before {
-  content: "Ã®â€¦Â¦";
+  content: "";
 }
 
 .glyphicon-open:before {
-  content: "Ã®â€¦Â§";
+  content: "";
 }
 
 .glyphicon-saved:before {
-  content: "Ã®â€¦Â¨";
+  content: "";
 }
 
 .glyphicon-import:before {
-  content: "Ã®â€¦Â©";
+  content: "";
 }
 
 .glyphicon-export:before {
-  content: "Ã®â€¦Â°";
+  content: "";
 }
 
 .glyphicon-send:before {
-  content: "Ã®â€¦Â±";
+  content: "";
 }
 
 .glyphicon-floppy-disk:before {
-  content: "Ã®â€¦Â²";
+  content: "";
 }
 
 .glyphicon-floppy-saved:before {
-  content: "Ã®â€¦Â³";
+  content: "";
 }
 
 .glyphicon-floppy-remove:before {
-  content: "Ã®â€¦Â´";
+  content: "";
 }
 
 .glyphicon-floppy-save:before {
-  content: "Ã®â€¦Âµ";
+  content: "";
 }
 
 .glyphicon-floppy-open:before {
-  content: "Ã®â€¦Â¶";
+  content: "";
 }
 
 .glyphicon-credit-card:before {
-  content: "Ã®â€¦Â·";
+  content: "";
 }
 
 .glyphicon-transfer:before {
-  content: "Ã®â€¦Â¸";
+  content: "";
 }
 
 .glyphicon-cutlery:before {
-  content: "Ã®â€¦Â¹";
+  content: "";
 }
 
 .glyphicon-header:before {
-  content: "Ã®â€ â‚¬";
+  content: "";
 }
 
 .glyphicon-compressed:before {
-  content: "Ã®â€ Â";
+  content: "";
 }
 
 .glyphicon-earphone:before {
-  content: "Ã®â€ â€š";
+  content: "";
 }
 
 .glyphicon-phone-alt:before {
-  content: "Ã®â€ Æ’";
+  content: "";
 }
 
 .glyphicon-tower:before {
-  content: "Ã®â€ â€ž";
+  content: "";
 }
 
 .glyphicon-stats:before {
-  content: "Ã®â€ â€¦";
+  content: "";
 }
 
 .glyphicon-sd-video:before {
-  content: "Ã®â€ â€ ";
+  content: "";
 }
 
 .glyphicon-hd-video:before {
-  content: "Ã®â€ â€¡";
+  content: "";
 }
 
 .glyphicon-subtitles:before {
-  content: "Ã®â€ Ë†";
+  content: "";
 }
 
 .glyphicon-sound-stereo:before {
-  content: "Ã®â€ â€°";
+  content: "";
 }
 
 .glyphicon-sound-dolby:before {
-  content: "Ã®â€ Â";
+  content: "";
 }
 
 .glyphicon-sound-5-1:before {
-  content: "Ã®â€ â€˜";
+  content: "";
 }
 
 .glyphicon-sound-6-1:before {
-  content: "Ã®â€ â€™";
+  content: "";
 }
 
 .glyphicon-sound-7-1:before {
-  content: "Ã®â€ â€œ";
+  content: "";
 }
 
 .glyphicon-copyright-mark:before {
-  content: "Ã®â€ â€";
+  content: "";
 }
 
 .glyphicon-registration-mark:before {
-  content: "Ã®â€ â€¢";
+  content: "";
 }
 
 .glyphicon-cloud-download:before {
-  content: "Ã®â€ â€”";
+  content: "";
 }
 
 .glyphicon-cloud-upload:before {
-  content: "Ã®â€ Ëœ";
+  content: "";
 }
 
 .glyphicon-tree-conifer:before {
-  content: "Ã®â€ â„¢";
+  content: "";
 }
 
 .glyphicon-tree-deciduous:before {
-  content: "Ã®Ë†â‚¬";
+  content: "";
 }
+
 
 * {
   -webkit-box-sizing: border-box;
@@ -1180,7 +1181,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.428571429;
-  color: var(--nac);
+  color: var(--tc);
   background-color: var(--llbg);
 }
 
@@ -1614,7 +1615,7 @@ blockquote .small {
 blockquote footer:before,
 blockquote small:before,
 blockquote .small:before {
-  content: "Ã¢â‚¬â€Ã‚Â ";
+  content: "â€”Â ";
 }
 
 .blockquote-reverse,
@@ -1639,7 +1640,7 @@ blockquote.pull-right .small:before {
 blockquote.pull-right footer:after,
 blockquote.pull-right small:after,
 blockquote.pull-right .small:after {
-  content: "Ã‚Â Ã¢â‚¬â€";
+  content: "Â â€”";
 }
 
 blockquote:before,
@@ -4403,6 +4404,7 @@ tbody.collapse.in {
   min-height: 50px;
   margin-bottom: 0;
   border: 1px solid transparent;
+
 }
 .navbar:before, .navbar:after {
   content: " ";
@@ -4717,7 +4719,7 @@ tbody.collapse.in {
   background-color: transparent;
 }
 .navbar-default .navbar-text {
-  color: var(--bg);
+  color: var(--tc);
 }
 .navbar-default .navbar-nav > li > a {
   color: var(--bg);
@@ -4880,7 +4882,7 @@ tbody.collapse.in {
   display: inline-block;
 }
 .breadcrumb > li + li:before {
-  content: "/Ã‚Â ";
+  content: "/Â ";
   padding: 0 5px;
   color: var(--brdr);
 }
@@ -6503,10 +6505,10 @@ button.close {
   font-family: serif;
 }
 .carousel-control .icon-prev:before {
-  content: "Ã¢â‚¬Â¹";
+  content: "â€¹";
 }
 .carousel-control .icon-next:before {
-  content: "Ã¢â‚¬Âº";
+  content: "â€º";
 }
 
 .carousel-indicators {
@@ -7206,14 +7208,22 @@ main.page-content.col-lg-12 {
   display: none;
 }
 
+
 button.toggle-sidebar {
-  color: var(--llbg);
+  color: var(--tc);
   background-color: transparent;
   font-size: 14px;
   border: none;
-  margin-top: 18px;
+  margin-top: 8px;
   float: left;
   outline: none;
+  background-image: url(../images/defaultcompany-logo.png);
+  width: 25%;
+  height: 33px;
+  padding-right: 25%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left 30px center;
 }
 
 /* COLLAPSE SIDEBAR END*/
